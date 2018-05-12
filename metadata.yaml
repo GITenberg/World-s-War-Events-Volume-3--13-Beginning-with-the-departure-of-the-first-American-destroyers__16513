@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '6758'
     url: http://www.gutenberg.org/2009/agents/6758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16513#World-s-War-Events-Volume-3--13-Beginning-with-the-departure-of-the-first-American-destroyers_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-08-12'
 gutenberg_type: Text
